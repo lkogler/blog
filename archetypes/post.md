@@ -1,6 +1,6 @@
 ---
 draft: true
-categories: ["BOSH", "CF Runtime", "API", "Logging & Metrics", "Agile"]
+categories: ["BOSH", "CF Runtime", "API", "Logging & Metrics", "Agile", "Humans"]
 authors:
 - Change this to your name, and make sure you have an entry in data/authors.
 - Add another author here
